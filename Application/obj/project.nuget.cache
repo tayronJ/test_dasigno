@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "DlYt9rg9qtmB1xrLmI9ypUmKGcgBd+iiB9EgNaiiFSzYRKeM+8YgwbBEqbHxnFsojSlwbFJAkOTLxAkSMqbjSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tjtor\\source\\repos\\TestDasigno\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tjtor\\.nuget\\packages\\ardalis.specification\\8.0.0\\ardalis.specification.8.0.0.nupkg.sha512",
+    "C:\\Users\\tjtor\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\tjtor\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\tjtor\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
+    "C:\\Users\\tjtor\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\tjtor\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\tjtor\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\tjtor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
